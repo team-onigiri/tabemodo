@@ -1,0 +1,2 @@
+class Goshop < ApplicationRecord
+end
