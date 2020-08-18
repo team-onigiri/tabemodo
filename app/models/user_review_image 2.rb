@@ -1,0 +1,2 @@
+class UserReviewImage < ApplicationRecord
+end

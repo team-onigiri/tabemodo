@@ -1,0 +1,2 @@
+class Coopon < ApplicationRecord
+end
